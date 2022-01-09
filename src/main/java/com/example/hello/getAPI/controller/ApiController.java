@@ -1,4 +1,4 @@
-package com.example.hello.controller;
+package com.example.hello.getAPI.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
