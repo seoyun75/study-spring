@@ -9,7 +9,8 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Map;
 
 /*
-    회원 정보를 받아오는 등의 작업을 할때
+    리소스 생성,추가에 사용
+    조회나 검색등에 사용되지 않기때문에 query parameter 사용 권장되지 않음
 
     post로 들어오는 값들읇 받기위해서 @RequestBody 작성
 * */
