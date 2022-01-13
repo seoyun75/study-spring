@@ -2,8 +2,10 @@ package com.example.hello.reponse.dto;
 
 import com.fasterxml.jackson.annotation.JsonIdentityInfo;
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonInclude;
 
-@JsonIgnore(JsonIg)
+//값에 대한 설정. null에 대한 값을 받지 않을때 사용
+@JsonInclude(JsonInclude.Include.NON_NULL)
 public class ResponseUser {
     private String name;
     private int age;//기본 0. null로 받고싶은 경우 Integer(Rapper)

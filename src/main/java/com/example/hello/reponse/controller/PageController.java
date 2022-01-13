@@ -18,7 +18,7 @@ public class PageController {
     //responseEntity
 
     //ResponseBody
-    //타입을 추론
+    //var : 타입을 추론
     @ResponseBody
     @GetMapping("/user")
     public ResponseUser user(){
