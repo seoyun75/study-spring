@@ -1,6 +1,6 @@
-package com.example.hello.put.controller;
+package com.example.hello.ch1.put.controller;
 
-import com.example.hello.put.dto.PutRequestDto;
+import com.example.hello.ch1.put.dto.PutRequestDto;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

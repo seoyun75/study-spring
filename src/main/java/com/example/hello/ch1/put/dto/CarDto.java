@@ -1,4 +1,4 @@
-package com.example.hello.put.dto;
+package com.example.hello.ch1.put.dto;
 
 public class CarDto {
 
