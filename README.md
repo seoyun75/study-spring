@@ -9,6 +9,7 @@ GET, POST, PUT, DELETE 및 Response 기초
 
 
 ```mermaid
+
 @startuml
 !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
 
@@ -52,7 +53,7 @@ Rel(SystemAA, SystemE, "Uses")
 Rel_D(SystemF, SystemD, "Uses")
 
 
-UpdateLayoutConfig($c4ShapeInRow="2", $c4BoundaryInRow="1", )
+UpdateLayoutConfig($c4ShapeInRow="2", $c4BoundaryInRow="1")
 
 @enduml
 
