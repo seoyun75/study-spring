@@ -11,7 +11,7 @@ GET, POST, PUT, DELETE 및 Response 기초
 ```mermaid
 
 @startuml
-!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+!include  https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
 
 C4Container
 title System Context diagram for Internet Banking System
