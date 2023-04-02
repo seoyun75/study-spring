@@ -1,4 +1,4 @@
-![include] (https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml)
+
 
 #Spring Study
 
@@ -10,7 +10,7 @@ GET, POST, PUT, DELETE 및 Response 기초
 
 
 
-```mermaid
+```js
 
 @startuml
 !include  https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
