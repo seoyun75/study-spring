@@ -7,7 +7,7 @@ java 언어를 사용하여 DB를 연동하지 않은 기본적인 spring 기초
 GET, POST, PUT, DELETE 및 Response 기초
 
 
-```mermaid.js
+```mermaid
 C4Context
 title System Context diagram for Internet Banking System
 
